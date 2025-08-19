@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price": 1
+
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price": 6
+
+    },
+     {
+        "id":3,
+        "title":"Cips",
+        "price": 40
+
+    },
+     {
+        "id":4,
+        "title":"Ayakkabı",
+        "price": 4000
+
+    },
+     {
+        "id":5,
+        "title":"Araba",
+        "price": 4000000
+
+    }
+]
