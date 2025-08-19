@@ -1,16 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Sakız",
-    "price": 1,
-    "image": "/images/sakiz.png"
+    "title": "Çay Bardak Takımı",
+    "price": 870,
+    "image": "/images/bardakseti.png"
   },
-
   {
     "id": 2,
-    "title": "Cips",
-    "price": 40,
-    "image": "/images/cips.png"
+    "title": "Telefon",
+    "price": 52999,
+    "image": "/images/telefon.png"
   },
   {
     "id": 3,
@@ -23,5 +22,153 @@
     "title": "Akülü Araba",
     "price": 40000,
     "image": "/images/araba.png"
+  },
+  {
+    "id": 5,
+    "title": "Mouse",
+    "price": 1999,
+    "image": "/images/mouse.png"
+  },
+  {
+    "id": 6,
+    "title": "Kulaklık",
+    "price": 1650,
+    "image": "/images/kulaklik.png"
+  },
+
+  {
+    "id": 7,
+    "title": "LEGO Seti",
+    "price": 950,
+    "image": "/images/lego.png"
+  },
+  {
+    "id": 8,
+    "title": "Peluş Ayı",
+    "price": 1200,
+    "image": "/images/oyuncakayi.png"
+  },
+  {
+    "id": 9,
+    "title": "Mont",
+    "price": 2400,
+    "image": "/images/mont.png"
+  },
+  {
+    "id": 10,
+    "title": "Televizyon",
+    "price": 35600,
+    "image": "/images/televizyon.png"
+  },
+  {
+    "id": 11,
+    "title": "Buzdolabı",
+    "price": 66410,
+    "image": "/images/buzdolabi.png"
+  },
+  {
+    "id": 12,
+    "title": "Çaydanlık",
+    "price": 1599,
+    "image": "/images/caydanlik.png"
+  },
+  {
+    "id": 13,
+    "title": "Şarj Aleti",
+    "price": 249,
+    "image": "/images/sarjaleti.png"
+  },
+  {
+    "id": 14,
+    "title": "Katlanır Masa",
+    "price": 4399,
+    "image": "/images/masa.png"
+  },
+  {
+    "id": 15,
+    "title": "Salıncak",
+    "price": 28399,
+    "image": "/images/salincak.png"
+  },
+  {
+    "id": 16,
+    "title": "Akıllı Saat",
+    "price": 1699,
+    "image": "/images/saat.png"
+  },
+  {
+    "id": 17,
+    "title": "Şemsiye",
+    "price": 560,
+    "image": "/images/semsiye.png"
+  },
+  {
+    "id": 18,
+    "title": "Bebek Arabası",
+    "price": 9850,
+    "image": "/images/bebekarabasi.png"
+  },
+  {
+    "id": 19,
+    "title": "Çatal Bıçak Takımı",
+    "price": 8466,
+    "image": "/images/catalbicak.png"
+  },
+  {
+    "id": 20,
+    "title": "Blender",
+    "price": 3600,
+    "image": "/images/blender.png"
+  },
+  {
+    "id": 21,
+    "title": "Drone",
+    "price": 48500,
+    "image": "/images/drone.png"
+  },
+  {
+    "id": 22,
+    "title": "Playstation ",
+    "price": 31183,
+    "image": "/images/playstation.png"
+  },
+  {
+    "id": 23,
+    "title": "Oyuncak Bebek",
+    "price": 1399,
+    "image": "/images/oyuncakbebek.png"
+  },
+   {
+    "id": 24,
+    "title": "Süpürge",
+    "price": 2870,
+    "image": "/images/süpürge.png"
+  },
+    {
+    "id": 25,
+    "title": "Klavye",
+    "price": 5002,
+    "image": "/images/klavye.png"
+  },
+    {
+    "id": 26,
+    "title": "Mikser",
+    "price": 1720,
+    "image": "/images/mikser.png"
+  },
+   {
+    "id": 27,
+    "title": "Şapka",
+    "price": 250,
+    "image": "/images/sapka.png"
+  },
+  {
+    "id": 27,
+    "title": "Çamaşır Makinesi",
+    "price": 12499,
+    "image": "/images/camasirmak.png"
   }
+  
+
+
 ]
