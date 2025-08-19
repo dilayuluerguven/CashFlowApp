@@ -6,7 +6,7 @@ import Product from "./component/Product";
 import Basket from "./component/Basket";
 
 function App() {
-  const [money, setMoney] = useState(100);
+  const [money, setMoney] = useState(1000000);
   const [basket, setBasket] = useState([]);
   const [total, setTotal] = useState(0);
   const resetBasket = () => {
@@ -26,6 +26,7 @@ function App() {
   return (
     <>
       <Header total={total} money={money} />
+      <div className="container products">
       {products.map((product) => (
         <Product
           key={product.id}
@@ -44,6 +45,7 @@ function App() {
           total={total}
         />
       )}
+      </div>
     </>
   );
 }

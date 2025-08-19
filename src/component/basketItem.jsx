@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import "../css/BasketItem.css";
 
-function BasketItem({item,product}) {
+function BasketItem({ item, product }) {
   return (
-    <div>{product.title} x {item.amount}</div>
-  )
+    <li className="basket-item">
+      {product.title} x <span>{item.amount}</span>
+    </li>
+  );
 }
 
-export default BasketItem
+export default BasketItem;

@@ -1,0 +1,10 @@
+.basket-item {
+  padding-bottom: 10px;
+  font-size: 17px;
+  user-select: none;
+ 
+}
+
+.basket-item span {
+  color: #999;
+}

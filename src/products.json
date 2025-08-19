@@ -1,32 +1,27 @@
 [
-    {
-        "id":1,
-        "title":"Sakız",
-        "price": 1
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 1,
+    "image": "/images/sakiz.png"
+  },
 
-    },
-    {
-        "id":2,
-        "title":"Kola",
-        "price": 6
-
-    },
-     {
-        "id":3,
-        "title":"Cips",
-        "price": 40
-
-    },
-     {
-        "id":4,
-        "title":"Ayakkabı",
-        "price": 4000
-
-    },
-     {
-        "id":5,
-        "title":"Araba",
-        "price": 4000000
-
-    }
+  {
+    "id": 2,
+    "title": "Cips",
+    "price": 40,
+    "image": "/images/cips.png"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 4000,
+    "image": "/images/ayakkabi.png"
+  },
+  {
+    "id": 4,
+    "title": "Akülü Araba",
+    "price": 40000,
+    "image": "/images/araba.png"
+  }
 ]
